@@ -1,0 +1,35 @@
+
+	body{  
+		margin: 0;
+		padding: 0;
+		background: #999;
+	}
+	canvas { 
+		display: block; 
+		margin: 0.5em auto; 
+		background: #fff; 
+	}
+	header{ 
+		background-color:white;
+		height:60px;
+		color:black;
+		font-size:40px;
+		text-align:center;
+		padding-left:15px;
+		white-space: nowrap;
+		font-family: Charcoal, sans-serif;
+		line-height:50px;
+	}
+	header span{
+		display:block;
+	}
+	h1{
+		font-family: Charcoal, sans-serif;
+		font-size:18px;
+		white-space: nowrap;
+		color:##333;
+		padding-right:450px;
+		text-align:center;
+	}
+	
+	
